@@ -1,3 +1,4 @@
 # Exploratory-Data-Analysis-On-Global-Terrorism
 
-[Final Dashboard.pdf](https://github.com/Shouvik078/Exploratory-Data-Analysis-On-Global-Terrorism/files/12639750/Final.Dashboard.pdf)
+![Final Dashboard](https://github.com/Shouvik078/Exploratory-Data-Analysis-On-Global-Terrorism/assets/106507099/560dca8f-bc89-4792-b8d0-7202451bdf03)
+
